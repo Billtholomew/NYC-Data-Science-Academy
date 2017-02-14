@@ -1,0 +1,3 @@
+[submodule "ShinyProject"]
+	path = ShinyProject
+	url = https://github.com/Billtholomew/ShinyProject
